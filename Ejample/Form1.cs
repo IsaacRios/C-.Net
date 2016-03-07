@@ -15,5 +15,20 @@ namespace Ejample
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Button boton = new Button();
+            boton.Text = "Salir";
+            boton.Location = new Point(100, 100);
+            boton.BackColor = Color.Aqua;
+            boton.Click += Boton_Click;
+            this.Controls.Add(boton);
+        }
+
+        private void Boton_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
