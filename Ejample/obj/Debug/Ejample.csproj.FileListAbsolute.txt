@@ -6,3 +6,4 @@ C:\Users\Factura Inteligente\Documents\Visual Studio 2015\Projects\Ejample\Ejamp
 C:\Users\Factura Inteligente\Documents\Visual Studio 2015\Projects\Ejample\Ejample\obj\Debug\Ejample.csproj.GenerateResource.Cache
 C:\Users\Factura Inteligente\Documents\Visual Studio 2015\Projects\Ejample\Ejample\obj\Debug\Ejample.exe
 C:\Users\Factura Inteligente\Documents\Visual Studio 2015\Projects\Ejample\Ejample\obj\Debug\Ejample.pdb
+C:\Users\Factura Inteligente\Documents\Visual Studio 2015\Projects\Ejample\Ejample\obj\Debug\Ejample.Form2.resources

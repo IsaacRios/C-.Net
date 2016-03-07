@@ -30,5 +30,16 @@ namespace Ejample
         {
             Application.Exit();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 obj = new Form2(textBox1.Text);
+            obj.ShowDialog();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
